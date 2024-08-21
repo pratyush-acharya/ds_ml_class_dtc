@@ -1,0 +1,35 @@
+What is programming, and why is it important?
+Name three popular IDEs for Python development.
+What is a variable in Python? How do you declare one?
+Explain the concept of dynamic typing in Python.
+What are the core data structures in Python? List and briefly describe each.
+How do lists differ from tuples in Python?
+What is the main characteristic of a set in Python?
+How do you create an empty dictionary in Python?
+What is the purpose of the if..elif..else statement in Python?
+Explain the difference between while and for loops in Python.
+What does the range() function do in Python?
+How do you define a function in Python?
+What are *args and **kwargs in Python functions?
+Explain the concept of default parameter values in Python functions.
+What is a lambda function in Python? Provide an example.
+Define Higher Order Functions (HOFs) and give an example.
+How does the map() function work in Python?
+What is the purpose of the reduce() function in Python?
+Explain the filter() function and provide a simple example of its usage.
+What is a decorator in Python, and how does it work?
+How do you chain multiple decorators in Python?
+What is the difference between mutable and immutable data types in Python?
+Explain the concept of list comprehension in Python.
+How do you handle exceptions in Python?
+What is the difference between break and continue statements in loops?
+How do you open and read a file in Python?
+Explain the concept of modules in Python. How do you import a module?
+What is the difference between == and is operators in Python?
+How do you create a virtual environment in Python, and why is it useful?
+Explain the concept of recursion in Python functions.
+What are the key differences between Python 2 and Python 3?
+How do you implement object-oriented programming concepts in Python?
+Explain the use of __init__ method in Python classes.
+What are Python packages, and how do you create one?
+How do you use list slicing in Python?

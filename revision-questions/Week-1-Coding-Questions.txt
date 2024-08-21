@@ -1,0 +1,30 @@
+Write a Python function to add two given lists using map() and lambda.
+Create a list comprehension that generates a list of squares of even numbers from 1 to 20.
+Write a decorator that measures and prints the execution time of a function.
+Use filter() and lambda to create a list of prime numbers from 1 to 50.
+Implement a recursive function to calculate the factorial of a number.
+Write a generator function that yields the Fibonacci sequence up to n terms.
+Create a nested list comprehension to flatten a 3D list into a 1D list.
+Implement a custom sorting function using sorted() and a lambda function to sort a list of strings by their last character.
+Write a function that uses reduce() to find the maximum element in a list.
+Create a decorator that caches the results of a function, implementing a simple memoization.
+Use map() and lambda to convert a list of temperatures from Celsius to Fahrenheit.
+Implement a class decorator that adds a logger method to the decorated class.
+Write a function that uses zip() and list comprehension to transpose a matrix (2D list).
+Create a higher-order function that returns a function to perform arithmetic operations (+, -, *, /) based on a string input.
+Use itertools.groupby() to group a list of words by their first letter.
+Implement a context manager using the with statement to handle file operations.
+Write a function that uses functools.partial() to create a function that always raises a number to the power of 2.
+Create a custom iterator class that generates prime numbers.
+Use map() and filter() together to create a list of squares of odd numbers from a given list.
+Implement a decorator that retries a function a specified number of times if it raises an exception.
+Write a function using reduce() to flatten a nested list of arbitrary depth.
+Create a list comprehension that generates a list of tuples (number, square, cube) for numbers from 1 to 10.
+Implement a function that uses itertools.combinations() to find all possible combinations of a given length from a list.
+Write a decorator that adds attributes to a function with information about its arguments and return value.
+Use filter() and lambda to remove all vowels from a given string.
+Create a higher-order function that returns a closure for calculating the nth power of a number.
+Implement a custom map() function using list comprehension.
+Write a function that uses itertools.permutations() to generate all anagrams of a given word.
+Create a decorator that limits the number of times a function can be called.
+Use functools.reduce() to implement a function that finds the greatest common divisor (GCD) of a list of numbers.
