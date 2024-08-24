@@ -1,0 +1,63 @@
+# OOP in Python Coding Questions
+
+# 1. Create a simple class called 'Person' with an __init__ method that takes 'name' and 'age' as parameters.
+
+# 2. Add a method called 'introduce' to the Person class that prints a greeting with the person's name and age.
+
+# 3. Create an object of the Person class and call the introduce method.
+
+# 4. Create a class 'Rectangle' with attributes 'length' and 'width'. Add a method to calculate the area.
+
+# 5. Implement a class called 'BankAccount' with methods to deposit, withdraw, and check balance.
+
+# 6. Create a child class 'SavingsAccount' that inherits from 'BankAccount' and has an additional attribute 'interest_rate'.
+
+# 7. Override the withdraw method in SavingsAccount to prevent withdrawals that would result in a balance below $100.
+
+# 8. Implement a class 'Car' with private attributes for 'fuel' and 'speed'. Add methods to accelerate and brake.
+
+# 9. Create a base class 'Animal' with a method 'speak'. Then create child classes 'Dog' and 'Cat' that override the speak method.
+
+# 10. Implement a class 'Circle' with a class method to calculate the area given a radius.
+
+# 11. Create an abstract base class 'Shape' with an abstract method 'area'. Implement concrete classes 'Square' and 'Triangle' that inherit from Shape.
+
+# 12. Implement a class 'Employee' with attributes 'name' and 'salary'. Add a method to give a raise to the employee.
+
+# 13. Create a class 'Book' with attributes 'title', 'author', and 'price'. Implement a method to apply a discount to the book's price.
+
+# 14. Implement a class 'Stack' with methods to push, pop, and check if the stack is empty.
+
+# 15. Create a class 'Queue' with methods to enqueue, dequeue, and check if the queue is empty.
+
+# 16. Implement a class 'Temperature' with methods to convert between Celsius and Fahrenheit.
+
+# 17. Create a class 'Student' with attributes for name and grades. Add methods to calculate the average grade and determine if the student passed (average > 60).
+
+# 18. Implement a class 'Time' with attributes for hours, minutes, and seconds. Add methods to add and subtract time objects.
+
+# 19. Create a class 'Fraction' with methods for addition, subtraction, multiplication, and division of fractions.
+
+# 20. Implement a class 'Point' to represent 2D coordinates. Add methods to calculate the distance between two points.
+
+# 21. Create a class 'Playlist' that can add songs, remove songs, and shuffle the playlist.
+
+# 22. Implement a class 'Dice' with a method to roll the dice and return a random number between 1 and 6.
+
+# 23. Create a class 'Counter' with methods to increment, decrement, and reset the count.
+
+# 24. Implement a class 'Calculator' with static methods for addition, subtraction, multiplication, and division.
+
+# 25. Create a class 'Rectangle' and implement comparison methods to compare rectangles based on their areas.
+
+# 26. Implement a class 'EmailValidator' with a static method to check if a given string is a valid email address.
+
+# 27. Create a class 'Password' with a method to check the strength of a password (e.g., length, special characters, numbers).
+
+# 28. Implement a class 'Calendar' with methods to add events, remove events, and check for conflicts.
+
+# 29. Create a class 'ShoppingCart' with methods to add items, remove items, and calculate the total price.
+
+# 30. Implement a class 'Logger' with methods to log messages at different levels (info, warning, error) and write them to a file.
+
+# Bonus: Create a simple class hierarchy for a zoo management system with a base class 'Animal' and derived classes for different types of animals.
