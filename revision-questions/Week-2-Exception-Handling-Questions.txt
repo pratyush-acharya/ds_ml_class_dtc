@@ -1,0 +1,3 @@
+#1. Write a function safe_divide that takes two numbers a and b and returns their division result. Handle the ZeroDivisionError exception and return a string "Cannot divide by zero" when the denominator is zero.
+#2. Write a function parse_number that takes a string s and returns the integer value of the string. If the string is empty, raise a ValueError with the message "Empty string provided". If the string cannot be converted to an integer, handle the ValueError and return "Invalid number".
+#3. Create a custom exception NegativeNumberError. Write a function check_positive that takes a number n and raises the NegativeNumberError if n is negative. The exception should include a message "Negative number not allowed". If n is non-negative, return the number.
