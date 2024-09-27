@@ -1,0 +1,6 @@
+// All the datasets have been provided in emails; please refer to them.
+Using pandas and matplotlib, create a multiple scatter plots of a seattle_weather dataset with two variables. Add a trend line to the plots. How would you interpret the relationship between the variables based on this visualization?
+Implement a function that calculates the odds ratio given the coefficients of a logistic regression model for the titanic dataset. Include code to interpret the odds ratio for a specific predictor variable.
+Write a Python function that takes a fitted linear regression model and new explanatory data as inputs, then returns predictions for the taiwan_realstate dataset. Include error handling for extrapolation cases where the new data falls outside the range of the original training data.
+Create a function that generates a Q-Q plot (Quantile-Quantile plot) for the residuals of a linear regression model for the avocado dataset(avoplotto). What would you look for in this plot to assess the normality assumption of the residuals?
+Using numpy or pandas, write code to perform a simple transformation (e.g., log transformation) on a variable in the climate dataset. Then, fit linear regression models to both the original and transformed data. How would you compare the results to determine if the transformation improved the model?

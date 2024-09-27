@@ -1,0 +1,20 @@
+Explain the key differences between linear regression and logistic regression. When would you use each?
+What is the purpose of the confusion matrix in assessing logistic regression model performance? Describe its components.
+Define the coefficient of determination (R-squared) in linear regression. How is it interpreted?
+What are some common diagnostic plots used for linear regression models? Explain what each plot reveals about the model.
+Describe the concept of "regression to the mean". How does it relate to residuals in a regression model?
+What are the main limitations of linear regression when dealing with binary response variables?
+Explain the advantages of logistic regression for modeling binary outcomes compared to linear regression.
+How is the odds ratio interpreted in logistic regression? Why is it useful?
+Define and explain the difference between sensitivity and specificity in the context of logistic regression performance evaluation.
+What is the log-odds ratio (logit) in logistic regression? How does it relate to probability?
+Describe the process of making predictions with logistic regression models. How do you determine the most likely outcome?
+What is the residual standard error (RSE) in linear regression? How is it calculated and interpreted?
+Explain the concept of leverage in regression analysis. How does it relate to identifying influential observations?
+What is multicollinearity in regression? How can it affect model interpretation and performance?
+Describe the process of extrapolation in linear regression. What are the potential risks associated with making predictions outside the range of the training data?
+How do you interpret the coefficients in a linear regression model with categorical variables?
+Explain the concept of heteroscedasticity in linear regression. How can it be detected and addressed?
+What is the purpose of transforming variables in linear regression? Provide examples of common transformations and when they might be used.
+Describe the differences between R-squared and adjusted R-squared. When would you prefer to use adjusted R-squared?
+What is the purpose of the Scale-Location plot in diagnostic checks for linear regression? What does it reveal about the model?
